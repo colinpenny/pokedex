@@ -1,0 +1,53 @@
+p {
+    margin: 0;
+}
+
+.Card {
+    background: #dcdcdc;
+    border-radius: 10px;
+}
+
+.Card__img {
+    display: inline-block;
+    width: 9rem;
+    padding: 0 1.5rem 0;
+}
+
+.Card__types {
+    display: inline-block;
+    width: 9rem;
+    margin: 0 5px 5px;
+}
+
+.Card__type {
+    display: inline-block;
+    padding: 0 5px;
+    margin: 0 5px;
+    border-radius: 5px;
+    background: cyan;
+    color: #fff;
+}
+
+.Card__info {
+    text-align: left;
+    width: 6rem;
+    padding: 0 0 0 10px;
+    margin: 0 0 0 3rem;
+    display: inline-block;
+}
+
+.info {
+    margin: 5px 0;
+}
+
+.Card__stats {
+    margin: 10px;
+    padding: 0;
+}
+
+.stat {
+    display: inline-block;
+    text-align: left;
+    width: 6rem;
+    padding: 5px 0;
+}
